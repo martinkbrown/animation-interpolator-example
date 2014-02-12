@@ -3,5 +3,9 @@
 
     <string name="hello">Hello World, AnimationInterpolatorExampleActivity!</string>
     <string name="app_name">AnimationInterpolatorExample</string>
+    <string name="decel">Decel</string>
+    <string name="bounce">Bounce</string>
+    <string name="overshoot">Overshoot</string>
+    <string name="some_text">Some Text</string>
 
 </resources>
